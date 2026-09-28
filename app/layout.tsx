@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Frans-inhaaltrainer | Module 1",
-  description: "Een eerste werkende trainer voor Bonjour, je me presente.",
+  title: "Inhaaltrainer Frans",
+  description: "Een inhaaltrainer Frans met losse modules voor leerjaar 1.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
